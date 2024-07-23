@@ -20,6 +20,3 @@ Contents
 
    usage
    api
-
-testing
---------
